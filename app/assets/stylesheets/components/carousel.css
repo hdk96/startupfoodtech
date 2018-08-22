@@ -1,0 +1,31 @@
+#carousel img{
+	margin-left: 50px;
+	width: 1000px;
+	height: 600px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.carousel-btn{
+	margin-top: 300px;
+	display: inline;
+
+}
+#next{
+	border: none;
+	padding: 38px 38px	;
+	background-image: url(https://s33.postimg.cc/hz9cos64f/right.jpg); 
+	background-size:80px;
+	background-repeat:no-repeat;
+	float: right;
+	margin-top: -400px;
+
+}
+#prev{
+	border: none;
+	padding: 38px 38px	;
+	background-image: url(https://s33.postimg.cc/70y36ihi7/left.jpg); 
+	background-size:80px;
+	background-repeat:no-repeat;
+	float: left;
+	margin-top: -400px;
+}

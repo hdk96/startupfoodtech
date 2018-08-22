@@ -1,0 +1,9 @@
+.banner{
+
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("https://preview.ibb.co/m6KUDK/hero.jpg");
+	background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    padding-top: 30px;
+}

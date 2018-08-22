@@ -1,0 +1,16 @@
+.btn-blue{
+    background-color:#ED4817 ;
+    border: 1px solide black;
+	border-radius: 5px;
+    color: #1C2833;
+    padding: 15px 32px;
+    text-align: center;
+
+    font-size: 16px;
+    margin-top: 10px;
+   	margin-left: 550px;
+}
+button:hover{
+    background-color:white;
+    color:#1C2833;
+}
